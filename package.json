@@ -10,7 +10,7 @@
     "light",
     "pinks"
   ],
-  "repository": "https://github.com/atom/cherry-abandon-syntax",
+  "repository": "https://github.com/Tirjasdyn/cherry-abandon-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

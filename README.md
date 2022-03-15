@@ -6,6 +6,6 @@ Cherry Abandon is light theme with highlighting in pinks. Punctuation is called 
 
 This theme includes AmpScript spefic hightlighting as well..because SFMC and email FTW. Screenshots on GitHub.
 
-[View on Github](https://github.com/Tirjasdyn/AbandonCream-syntax)
+[View on Github](https://github.com/Tirjasdyn/cherry-abandon-syntax)
 
 ## Screenshots (_Forthcoming_)
