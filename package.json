@@ -1,0 +1,18 @@
+{
+  "name": "cherry-abandon-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Light theme with pastels and cream based on Abadon",
+  "keywords": [
+    "syntax",
+    "theme",
+    "cream",
+    "light",
+    "pinks"
+  ],
+  "repository": "https://github.com/atom/cherry-abandon-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
